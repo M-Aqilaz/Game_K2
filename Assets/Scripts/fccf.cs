@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class fccf : MonoBehaviour
 {
-    int ayam = 1;
+
     // Start is called before the first frame update
     void Start()
     {
